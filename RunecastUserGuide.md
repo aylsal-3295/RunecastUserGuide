@@ -1,4 +1,5 @@
-﻿![](RunecastUserGuide.001.png)
+﻿![](RunecastUserGuide.001.png)
+
 ![](RunecastUserGuide.002.png)
 
 **Runecast Analyzer User Guide** 
@@ -32,12 +33,7 @@ Contents ![](RunecastUserGuide.003.png)
 1. [Custom Profiles .................................................................................................................................. 61](#_page60_x69.00_y514.00)
 6. [LOG ANALYSIS ........................................................................................................................................... 62](#_page61_x69.00_y597.00)
 1. [Log KBs Discovered ............................................................................................................................ 63](#_page62_x69.00_y128.00)
-1. [Log Inspector ..................................................................................................................................... 63](#_page62_x69.00_y237.00)
-**PAGE4 |** P a g e **![](RunecastUserGuide.004.png)**
-
-Runecast Analyzer User Guide v4.7.5 
-![](RunecastUserGuide.002.png)
-
+1. [Log Inspector ..................................................................................................................................... 63](#_page62_x69.00_y237.00)
 7. [Definition Database .................................................................................................................................. 63](#_page62_x69.00_y534.00)
 7. [EC Dashboard ............................................................................................................................................ 63](#_page62_x69.00_y608.00)
 7. [Settings Page............................................................................................................................................. 65](#_page64_x69.00_y310.00)
@@ -65,7 +61,8 @@ Runecast Analyzer User Guide v4.7.5
 1. [How to enforce support of TLSv1.2 protocol............................................................................................ 80](#_page79_x69.00_y128.00)
 1. [How to configure remote audit logging .................................................................................................... 80](#_page79_x69.00_y478.00)![](RunecastUserGuide.004.png)
 
-**4 [|** P a g e** ](#_page79_x69.00_y478.00)**
+**4 [|** P a g e** ](#_page79_x69.00_y478.00)**
+
 Runecast Analyzer User Guide v4.7.5 
 ![](RunecastUserGuide.002.png)
 
@@ -808,11 +805,8 @@ The security rules displayed in this view are taken from the official VMware Sec
 
 Regardless of the original severity, some security rules may not be required for your organization’s security policy. You might need to customize the displayed security checks by filtering those that are not included in your organization’s security policy. For more information, see[ Filters.](#_page66_x69.00_y495.00) 
 
-Every security check can either **Pass** or **Fail**. In cases where there is at least one object in your infrastructure that is not compliant with a specific security check, this check will be marked as **Fail**. The list of non-compliant objects can be viewed in the details of the affected objects section. 
-**PAGE47 |** P a g e **![](RunecastUserGuide.004.png)**
+Every security check can either **Pass** or **Fail**. In cases where there is at least one object in your infrastructure that is not compliant with a specific security check, this check will be marked as **Fail**. The list of non-compliant objects can be viewed in the details of the affected objects section. 
 
-Runecast Analyzer User Guide v4.7.5 
-![](RunecastUserGuide.002.png)
 
 ![](RunecastUserGuide.063.png) DISA STIG 6 
 
@@ -840,7 +834,8 @@ The requirements and controls cited in the profile are taken from[ PCI DSS v3.2.
 
 - 1 - Remove sensitive authentication data and limit data retention. This milestone targets a key area of risk for entities that have been compromised. ![](RunecastUserGuide.004.png)
 
-**47 |** P a g e** 
+**47 |** P a g e** 
+
 Runecast Analyzer User Guide v4.7.5 
 ![](RunecastUserGuide.002.png)
 
@@ -1160,11 +1155,8 @@ An unlimited number of **Local User** accounts can be added. For each user, one 
 
 The **Admin** role has no restrictions – it can manage the Runecast Analyzer without any limitations. It has also permission to create/remove other users apart from **rcuser**. 
 
-The **Read-only** role has restrictions - it is not able to change any settings or configuration and not able to scan or create/remove other users. This role can[` `*Generate an API access token* ](#_page71_x69.00_y343.00)with read-only privileges.  
-**PAGE68 |** P a g e **![](RunecastUserGuide.004.png)**
+The **Read-only** role has restrictions - it is not able to change any settings or configuration and not able to scan or create/remove other users. This role can[` `*Generate an API access token* ](#_page71_x69.00_y343.00)with read-only privileges.  
 
-Runecast Analyzer User Guide v4.7.5 
-![](RunecastUserGuide.002.png)
 
 ![](RunecastUserGuide.099.png) Active Directory 
 
@@ -1196,7 +1188,8 @@ There are many use cases for using filters, for example:
 
 Click **Add Filter** to create a new filter. A new filter called **New Filter** appears in the list. Expand **New Filter** and edit its name and description.  The filter configuration includes two hierarchical trees: 
 
-**67 |** P a g e** 
+**67 |** P a g e** 
+
 Runecast Analyzer User Guide v4.7.5 
 ![](RunecastUserGuide.002.png)
 
@@ -1708,6 +1701,3 @@ Information about how to stop/start vCenter services is available on the followi
 [https://kb.vmware.com/s/article/2109887 ](https://kb.vmware.com/s/article/2109887)[https://kb.vmware.com/s/article/2109881 ](https://kb.vmware.com/s/article/2109881)
 
 **Thank you for using Runecast Analyzer!** 
-**PAGE90 |** P a g e **![](RunecastUserGuide.004.png)**
-
-Runecast Analyzer User Guide v4.7.5 
